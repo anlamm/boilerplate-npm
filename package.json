@@ -68,6 +68,5 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC"
 }
